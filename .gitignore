@@ -1,0 +1,11 @@
+node_modules
+.idea
+.DS_Store
+.awscredentials.json
+.awstoolkitconfig.json
+.nmprc
+*.iml
+test/
+
+quicktest.js
+
