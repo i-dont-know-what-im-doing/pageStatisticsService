@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "main": "page-statistics-service.js",
   "author": "IDKWID",
+  "license": "ISC",
   "scripts": {
     "test": "mocha",
     "deploy": "node tasks.js deploy",
